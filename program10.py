@@ -1,6 +1,0 @@
-print("****************** While Loop *********************")
-n=int(input("Enter the numbers:"))
-while n != 0:
-    d = n % 10
-print(d , end = "  ")
-n//=0
